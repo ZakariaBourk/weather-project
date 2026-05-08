@@ -2,7 +2,7 @@ name: Weather Daily Report
 
 on:
   schedule:
-    - cron: '* * * * *' 
+    - cron: '59 23 * * *' 
 
   workflow_dispatch:
 
